@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 ## Hash Table
 |  |
@@ -55,4 +56,8 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
