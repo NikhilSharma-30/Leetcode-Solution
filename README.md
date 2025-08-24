@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0221-maximal-square) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
