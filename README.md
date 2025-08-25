@@ -45,6 +45,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
