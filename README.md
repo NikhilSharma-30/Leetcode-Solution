@@ -52,6 +52,7 @@
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
