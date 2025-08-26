@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
@@ -96,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Binary Search
