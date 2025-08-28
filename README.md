@@ -56,6 +56,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
