@@ -27,6 +27,7 @@
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |
