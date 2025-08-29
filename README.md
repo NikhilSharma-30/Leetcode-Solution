@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
