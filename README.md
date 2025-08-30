@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 ## Trie
@@ -93,6 +95,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
