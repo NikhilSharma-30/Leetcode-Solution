@@ -124,12 +124,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
 ## Monotonic Stack
@@ -143,9 +145,11 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
