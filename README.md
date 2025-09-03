@@ -129,6 +129,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
 ## Monotonic Stack
@@ -154,6 +156,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
@@ -162,6 +165,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
