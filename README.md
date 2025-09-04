@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
@@ -121,6 +122,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
@@ -161,6 +164,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 ## Binary Tree
@@ -171,6 +175,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 ## Geometry
