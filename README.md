@@ -92,6 +92,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
