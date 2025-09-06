@@ -39,6 +39,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
 ## Array
@@ -87,6 +88,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
