@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
+| [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
