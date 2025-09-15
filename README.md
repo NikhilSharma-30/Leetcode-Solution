@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -86,6 +87,7 @@
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
