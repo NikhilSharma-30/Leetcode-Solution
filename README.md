@@ -69,6 +69,7 @@
 | [0283-move-zeroes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
+| [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Depth-First Search
 |  |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
