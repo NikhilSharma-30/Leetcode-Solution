@@ -12,6 +12,7 @@
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
@@ -171,6 +172,7 @@
 | [0020-valid-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
