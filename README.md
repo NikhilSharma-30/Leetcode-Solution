@@ -39,6 +39,7 @@
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
@@ -79,6 +80,7 @@
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -117,6 +119,7 @@
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Linked List
@@ -134,6 +137,7 @@
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
