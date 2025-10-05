@@ -65,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
@@ -121,6 +122,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
@@ -162,6 +164,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
