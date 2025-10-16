@@ -12,7 +12,6 @@ public:
             }
             nums[i]=(abs(nums[i])%val);
         }
-        sort(nums.begin(),nums.end());
         for(auto &i:nums){
             mp[i]++;
             s.insert(i+(mp[i]-1)*val);
