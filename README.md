@@ -107,6 +107,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -141,6 +142,7 @@
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
