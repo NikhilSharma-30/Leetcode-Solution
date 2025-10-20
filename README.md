@@ -18,6 +18,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -215,6 +217,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Depth-First Search
 |  |
 | ------- |
