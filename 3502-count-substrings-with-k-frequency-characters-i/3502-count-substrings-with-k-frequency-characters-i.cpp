@@ -2,21 +2,19 @@ class Solution {
 public:
     int numberOfSubstrings(string s, int k) {
         int n=s.size(),ans=0;
-        for(int i=0;i<n;i++){
-            bool fl=false;
-            vector<int>f(26,0);
-            for(int j=i;j<n;j++){
-                int id=(s[j]-'a');
-                f[id]++;
-                for(auto &x:f){
-                    if(x==k){
-                        fl=true;
-                        ans+=(n-j);
-                        break;
-                    }
+        int i=0,j=0;
+        unordered_map<char,int>mp;
+        while(j<n){
+            mp[s[j]]++;
+            while(mp[s[j]]>=k){
+                ans+=(n-j);
+                mp[s[i]]--;
+                if(mp[s[i]]==0){
+                    mp.erase(s[i]);
                 }
-                if(fl) break;
+                i++;
             }
+            j++;
         }
         return ans;
         
