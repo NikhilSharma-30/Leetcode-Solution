@@ -108,6 +108,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -184,6 +185,7 @@
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
