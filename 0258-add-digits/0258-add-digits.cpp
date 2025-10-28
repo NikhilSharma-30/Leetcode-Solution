@@ -2,16 +2,12 @@ class Solution {
 public:
     int addDigits(int num) {
         string s=to_string(num);
-        while(s.size()>1){
-            int x=stoi(s);
-            int sum=0;
-            while(x>0){
-                sum+=(x%10);
-                x/=10;
-            }
-            s=to_string(sum);
+        if(s.size()==1){
+            return num;
         }
-        return stoi(s);
+        if(num%9==0) return 9;
+        return num%9;
+
         
     }
 };
