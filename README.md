@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
@@ -261,6 +262,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1642-water-bottles) |
@@ -344,5 +346,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0258-add-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
