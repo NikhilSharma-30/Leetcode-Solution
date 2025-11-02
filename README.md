@@ -117,6 +117,7 @@
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -206,6 +207,7 @@
 | [1036-rotting-oranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
@@ -285,6 +287,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
