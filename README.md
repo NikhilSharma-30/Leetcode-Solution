@@ -48,6 +48,7 @@
 | [0258-add-digits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -96,6 +97,7 @@
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
@@ -187,6 +189,7 @@
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
