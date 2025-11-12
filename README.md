@@ -39,6 +39,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Greedy
 |  |
 | ------- |
