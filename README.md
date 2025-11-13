@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
@@ -197,6 +198,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
