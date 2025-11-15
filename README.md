@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -247,6 +248,7 @@
 | [0283-move-zeroes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
