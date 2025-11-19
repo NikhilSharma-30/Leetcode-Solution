@@ -122,6 +122,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1242-matrix-block-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1242-matrix-block-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -238,6 +239,7 @@
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1036-rotting-oranges) |
+| [1242-matrix-block-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -392,6 +394,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [1242-matrix-block-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1242-matrix-block-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
