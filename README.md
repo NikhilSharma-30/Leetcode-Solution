@@ -37,6 +37,7 @@
 | [0221-maximal-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -124,6 +125,7 @@
 | [1036-rotting-oranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1242-matrix-block-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1242-matrix-block-sum) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -194,6 +196,7 @@
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -224,6 +227,7 @@
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
