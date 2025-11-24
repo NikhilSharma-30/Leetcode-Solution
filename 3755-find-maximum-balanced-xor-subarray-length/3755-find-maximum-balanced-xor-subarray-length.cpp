@@ -1,13 +1,3 @@
-struct hashPair {
-    size_t operator()(const pair<int,int>& p) const {
-        uint64_t x = ((uint64_t)p.first << 32) | (uint32_t)p.second;
-        x ^= x >> 23;
-        x *= 0x2127599bf4325c37ULL;
-        x ^= x >> 47;
-        return (size_t)x;
-    }
-};
-
 class Solution {
 public:
     int maxBalancedSubarray(vector<int>& nums) {
@@ -15,7 +5,7 @@ public:
         int x=nums[0],ce=0;
         int ml=0;
         vector<int>diff,xr;
-        unordered_map<pair<int,int>,int,hashPair>mp;
+        map<pair<int,int>,int>mp;
         for(int i=0;i<n;i++){
             if(nums[i]%2==0){
                 ce++;
