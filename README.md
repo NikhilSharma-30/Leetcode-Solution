@@ -21,6 +21,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -71,6 +72,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -152,6 +154,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
