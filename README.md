@@ -187,6 +187,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -233,6 +234,7 @@
 | [0203-remove-linked-list-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
