@@ -229,6 +229,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
