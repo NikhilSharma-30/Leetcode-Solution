@@ -129,6 +129,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -298,6 +299,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Stack
