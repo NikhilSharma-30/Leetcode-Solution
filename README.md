@@ -148,6 +148,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
+| [1470-shuffle-the-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1511-count-number-of-teams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1511-count-number-of-teams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
