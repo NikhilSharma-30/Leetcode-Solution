@@ -124,6 +124,7 @@
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0740-delete-and-earn) |
