@@ -155,6 +155,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1929-concatenation-of-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
@@ -371,6 +372,7 @@
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
