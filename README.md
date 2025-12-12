@@ -357,6 +357,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -374,6 +375,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -422,6 +424,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
@@ -443,6 +446,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
