@@ -18,8 +18,12 @@ public:
             ans=r;
             return;
         }
-        if(r->left) solve(r->left,v);
-        if(r->right) solve(r->right,v);
+        if((r->val)>v){
+            solve(r->left,v);
+        }
+        else{
+            solve(r->right,v);
+        }
         return;
     }
     TreeNode* searchBST(TreeNode* root, int val) {
