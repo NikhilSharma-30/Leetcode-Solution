@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Math
 |  |
@@ -366,6 +368,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
@@ -437,6 +440,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -461,6 +465,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
