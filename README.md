@@ -71,6 +71,7 @@
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -151,6 +152,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
@@ -290,6 +292,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1094-car-pooling) |
@@ -492,6 +495,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
@@ -563,10 +567,12 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -576,6 +582,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
