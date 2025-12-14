@@ -11,41 +11,30 @@
  */
 class Solution {
 public:
-    int find(TreeNode* r){
-        if(r==NULL){
-            return 0;
-        }
-        else if(r->left!=NULL && r->right==NULL){
-            return 1+find(r->left);
-        }
-        else if(r->left==NULL && r->right!=NULL){
-            return 1+find(r->right);
-        }
-        else{
-            return 1+max(find(r->left),find(r->right));
-        }
-    }
-    void solve(TreeNode* r,int &sum,int d,int c){
-        if(r==NULL) return;
-        c++;
-        if(r->left==NULL && r->right==NULL && c==d){
-            sum+=(r->val);
-            return;
-        }
-        if(r->left){
-            solve(r->left,sum,d,c);
-        }
-        if(r->right){
-            solve(r->right,sum,d,c);
-        }
-        return;
-
-    }
     int deepestLeavesSum(TreeNode* root) {
-        int d=find(root);
-        int sum=0,c=0;
-        solve(root,sum,d,c);
-        return sum;
+        queue<TreeNode*>q;
+        vector<vector<int>>ans;
+        q.push(root);
+        while(!q.empty()){
+            int n=q.size();
+            TreeNode* curr=q.front();
+            vector<int>v;
+            while(curr!=NULL && n--){
+                curr=q.front();
+                v.push_back(curr->val);
+                if(curr->left){
+                    q.push(curr->left);
+                }
+                if(curr->right){
+                    q.push(curr->right);
+                }
+                q.pop();
+            }
+            ans.push_back(v);
+        }
+        int n1=ans.size();
+        vector<int>v1=ans[n1-1];
+        return (int)accumulate(v1.begin(),v1.end(),0);
         
     }
 };
