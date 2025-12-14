@@ -136,6 +136,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0605-can-place-flowers) |
@@ -283,6 +284,7 @@
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -573,6 +575,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [1094-car-pooling](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
