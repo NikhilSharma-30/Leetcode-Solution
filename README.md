@@ -43,6 +43,7 @@
 | [0120-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0221-maximal-square) |
+| [0413-arithmetic-slices](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -135,6 +136,7 @@
 | [0221-maximal-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
+| [0413-arithmetic-slices](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -376,6 +378,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
