@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -128,6 +129,7 @@
 | [0011-container-with-most-water](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
