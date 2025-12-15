@@ -53,6 +53,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 ## Backtracking
@@ -83,6 +84,7 @@
 | [1642-water-bottles](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -182,6 +184,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
