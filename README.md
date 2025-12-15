@@ -21,6 +21,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1542-consecutive-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -53,6 +54,7 @@
 | [1511-count-number-of-teams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -606,4 +608,8 @@
 | [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
