@@ -231,6 +231,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -298,6 +299,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Linked List
@@ -343,6 +345,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
@@ -363,6 +366,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
@@ -649,6 +653,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## String Matching
 |  |
 | ------- |
