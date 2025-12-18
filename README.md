@@ -27,6 +27,7 @@
 | [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
@@ -375,6 +376,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -401,6 +403,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sliding Window
