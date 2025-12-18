@@ -93,6 +93,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1642-water-bottles) |
+| [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -285,6 +286,7 @@
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -635,6 +637,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 ## String Matching
 |  |
