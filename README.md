@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0067-add-binary) |
@@ -84,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0258-add-digits) |
@@ -250,6 +252,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
