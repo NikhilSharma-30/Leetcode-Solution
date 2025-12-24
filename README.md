@@ -462,6 +462,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
@@ -542,6 +543,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
@@ -571,6 +573,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
@@ -603,6 +606,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
 ## Brainteaser
