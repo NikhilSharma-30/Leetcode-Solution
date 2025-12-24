@@ -16,6 +16,7 @@
 | [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0606-construct-string-from-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0784-letter-case-permutation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0784-letter-case-permutation) |
@@ -465,6 +466,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
@@ -542,6 +544,7 @@
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -569,6 +572,7 @@
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
