@@ -332,6 +332,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
@@ -404,6 +405,7 @@
 | [0011-container-with-most-water](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
