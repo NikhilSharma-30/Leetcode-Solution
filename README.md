@@ -157,6 +157,7 @@
 | [0011-container-with-most-water](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0056-merge-intervals) |
@@ -434,6 +435,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
