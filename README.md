@@ -41,6 +41,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2957-remove-adjacent-almost-equal-characters) |
