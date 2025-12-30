@@ -457,6 +457,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -756,4 +757,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
