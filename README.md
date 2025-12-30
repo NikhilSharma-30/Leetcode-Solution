@@ -97,6 +97,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0781-rabbits-in-forest) |
@@ -453,6 +454,7 @@
 | [0035-search-insert-position](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
