@@ -455,6 +455,7 @@
 | [0035-search-insert-position](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
@@ -751,4 +752,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
