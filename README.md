@@ -184,6 +184,7 @@
 | [0413-arithmetic-slices](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
@@ -371,6 +372,7 @@
 | [0088-merge-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
@@ -458,6 +460,7 @@
 | [0278-first-bad-version](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
