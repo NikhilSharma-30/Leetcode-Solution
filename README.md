@@ -249,6 +249,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1895-largest-magic-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
+| [1995-count-special-quadruplets](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -316,6 +317,7 @@
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1995-count-special-quadruplets](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -681,6 +683,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
+| [1995-count-special-quadruplets](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3200-maximum-height-of-a-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3200-maximum-height-of-a-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
