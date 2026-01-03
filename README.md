@@ -174,6 +174,7 @@
 | [0088-merge-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -286,6 +287,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -780,4 +782,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
