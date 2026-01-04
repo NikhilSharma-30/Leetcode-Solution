@@ -29,6 +29,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1542-consecutive-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
@@ -149,6 +150,7 @@
 | [0645-set-mismatch](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -317,6 +319,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -804,4 +807,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
