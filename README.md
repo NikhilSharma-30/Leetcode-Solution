@@ -80,6 +80,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 ## Backtracking
@@ -91,6 +92,7 @@
 | [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0784-letter-case-permutation) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -275,6 +278,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -370,6 +374,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -424,6 +429,7 @@
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -691,6 +697,7 @@
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
+| [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3200-maximum-height-of-a-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3200-maximum-height-of-a-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
