@@ -187,6 +187,7 @@
 | [0238-product-of-array-except-self](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
@@ -345,6 +346,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0605-can-place-flowers) |
