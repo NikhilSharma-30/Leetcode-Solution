@@ -31,6 +31,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1496-path-crossing](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1496-path-crossing) |
 | [1542-consecutive-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
@@ -330,6 +331,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1496-path-crossing](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
