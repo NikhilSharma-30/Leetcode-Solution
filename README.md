@@ -17,6 +17,7 @@
 | [0257-binary-tree-paths](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0606-construct-string-from-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
@@ -486,6 +487,7 @@
 | [0344-reverse-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0541-reverse-string-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
