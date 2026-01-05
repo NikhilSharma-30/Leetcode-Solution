@@ -216,6 +216,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0724-find-pivot-index) |
@@ -319,6 +320,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0652-find-duplicate-subtrees) |
+| [0697-degree-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0781-rabbits-in-forest](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0781-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
