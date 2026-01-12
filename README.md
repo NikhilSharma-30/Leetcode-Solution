@@ -117,6 +117,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1175-prime-arrangements) |
+| [1266-minimum-time-visiting-all-points](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -243,6 +244,7 @@
 | [1222-queens-that-can-attack-the-king](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1222-queens-that-can-attack-the-king) |
 | [1242-matrix-block-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1242-matrix-block-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -712,6 +714,7 @@
 | ------- |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
