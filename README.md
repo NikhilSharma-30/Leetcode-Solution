@@ -402,6 +402,7 @@
 | [0086-partition-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
@@ -568,6 +569,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -598,6 +600,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -655,6 +658,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -688,6 +692,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
