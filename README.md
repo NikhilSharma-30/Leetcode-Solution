@@ -201,6 +201,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0436-find-right-interval) |
@@ -419,6 +420,7 @@
 | [0088-merge-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
