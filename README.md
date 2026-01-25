@@ -266,6 +266,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1895-largest-magic-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2104-sum-of-subarray-ranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2104-sum-of-subarray-ranges) |
@@ -440,6 +441,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -559,6 +561,7 @@
 | [0658-find-k-closest-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Depth-First Search
 |  |
