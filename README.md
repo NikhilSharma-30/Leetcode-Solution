@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -324,6 +325,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0652-find-duplicate-subtrees) |
@@ -427,6 +429,7 @@
 | [0414-third-maximum-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0436-find-right-interval) |
+| [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
@@ -767,6 +770,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -831,6 +835,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -862,4 +867,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
