@@ -596,6 +596,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [0814-binary-tree-pruning](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -685,6 +686,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -719,6 +721,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
