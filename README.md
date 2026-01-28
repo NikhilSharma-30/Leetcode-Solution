@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
