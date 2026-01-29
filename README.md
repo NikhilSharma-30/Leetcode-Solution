@@ -26,6 +26,7 @@
 | [0647-palindromic-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0784-letter-case-permutation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0784-letter-case-permutation) |
+| [0821-shortest-distance-to-a-character](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -230,6 +231,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0781-rabbits-in-forest](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0821-shortest-distance-to-a-character](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
@@ -512,6 +514,7 @@
 | [0658-find-k-closest-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0821-shortest-distance-to-a-character](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
