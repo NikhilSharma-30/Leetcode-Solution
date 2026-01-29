@@ -601,6 +601,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -691,6 +692,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -726,6 +728,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
