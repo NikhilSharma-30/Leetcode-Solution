@@ -27,6 +27,7 @@
 | [0696-count-binary-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0784-letter-case-permutation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0784-letter-case-permutation) |
 | [0821-shortest-distance-to-a-character](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
+| [0830-positions-of-large-groups](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-positions-of-large-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
