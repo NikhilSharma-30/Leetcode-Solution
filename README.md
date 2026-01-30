@@ -234,6 +234,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
+| [0867-transpose-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -475,6 +476,7 @@
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
+| [0867-transpose-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1036-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1222-queens-that-can-attack-the-king) |
 | [1242-matrix-block-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1242-matrix-block-sum) |
@@ -643,6 +645,7 @@
 | [0258-add-digits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [1222-queens-that-can-attack-the-king](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1222-queens-that-can-attack-the-king) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
