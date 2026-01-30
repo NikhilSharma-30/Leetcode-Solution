@@ -67,6 +67,7 @@
 | [0005-longest-palindromic-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0139-word-break) |
@@ -192,6 +193,7 @@
 | [0064-minimum-path-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
