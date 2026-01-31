@@ -134,6 +134,7 @@
 | [1642-water-bottles](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1642-water-bottles) |
 | [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -273,6 +274,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1895-largest-magic-square](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1895-largest-magic-square) |
