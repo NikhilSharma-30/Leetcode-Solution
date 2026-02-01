@@ -307,6 +307,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2761-prime-pairs-with-target-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -471,6 +472,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -768,6 +770,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2761-prime-pairs-with-target-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3200-maximum-height-of-a-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search Tree
