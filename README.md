@@ -324,6 +324,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -479,6 +480,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
@@ -590,6 +592,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 ## Depth-First Search
 |  |
 | ------- |
