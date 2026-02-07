@@ -315,6 +315,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3379-transformed-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -679,6 +680,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
+| [3379-transformed-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3379-transformed-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
