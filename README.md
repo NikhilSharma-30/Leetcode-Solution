@@ -163,6 +163,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0784-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
