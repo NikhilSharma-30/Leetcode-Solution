@@ -167,6 +167,7 @@
 | [0784-letter-case-permutation](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0784-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
@@ -262,6 +263,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -465,6 +467,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -816,6 +819,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
