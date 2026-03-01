@@ -41,6 +41,7 @@
 | [1542-consecutive-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1668-maximum-repeating-substring](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -405,6 +406,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
