@@ -34,6 +34,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1021-remove-outermost-parentheses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -358,6 +359,7 @@
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1189-maximum-number-of-balloons](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -821,6 +823,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
