@@ -52,6 +52,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -304,6 +305,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
