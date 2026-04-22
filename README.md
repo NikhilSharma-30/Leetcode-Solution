@@ -247,6 +247,7 @@
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -356,6 +357,7 @@
 | [0781-rabbits-in-forest](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0781-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1006-vowel-spellchecker](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
@@ -466,6 +468,7 @@
 | [0658-find-k-closest-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -569,6 +572,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0888-fair-candy-swap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
