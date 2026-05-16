@@ -264,6 +264,7 @@
 | [1242-matrix-block-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1242-matrix-block-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -365,6 +366,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -410,6 +412,7 @@
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
