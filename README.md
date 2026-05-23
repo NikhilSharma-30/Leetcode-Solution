@@ -47,6 +47,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
@@ -375,6 +376,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-count-special-quadruplets](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -835,6 +837,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
