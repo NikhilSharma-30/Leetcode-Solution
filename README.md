@@ -295,6 +295,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2169-simple-bank-system) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2239-find-closest-number-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2239-find-closest-number-to-zero) |
@@ -422,6 +423,7 @@
 | [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -485,6 +487,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
