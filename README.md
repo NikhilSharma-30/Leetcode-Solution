@@ -636,6 +636,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -671,6 +672,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -732,6 +734,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -771,6 +774,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
