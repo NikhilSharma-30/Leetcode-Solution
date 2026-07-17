@@ -4,7 +4,7 @@ public:
         int n=v.size();
         int s=0;
         for(int i=0;i<n;i++){
-            s+=ceil((float)v[i]/(float)f);
+            s+=((v[i]+f-1)/f);
         }
         return s;
     }
