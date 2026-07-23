@@ -158,6 +158,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3830-find-closest-person) |
@@ -178,6 +179,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -337,6 +339,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
