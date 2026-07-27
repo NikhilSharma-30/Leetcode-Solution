@@ -283,6 +283,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1428-jump-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1511-count-number-of-teams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1511-count-number-of-teams) |
 | [1512-number-of-good-pairs](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
@@ -498,6 +499,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -943,6 +945,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [2974-minimum-number-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
