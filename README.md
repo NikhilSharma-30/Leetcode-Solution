@@ -62,6 +62,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -516,6 +517,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
@@ -935,6 +937,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
