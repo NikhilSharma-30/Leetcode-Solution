@@ -59,6 +59,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -155,6 +156,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -444,6 +446,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2708-maximum-strength-of-a-group](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2708-maximum-strength-of-a-group) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
