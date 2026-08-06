@@ -158,6 +158,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -840,6 +841,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3200-maximum-height-of-a-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search Tree
 |  |
 | ------- |
