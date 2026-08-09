@@ -83,6 +83,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0740-delete-and-earn) |
+| [0877-stone-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -124,6 +125,7 @@
 | [0781-rabbits-in-forest](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0781-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1018-largest-perimeter-triangle) |
@@ -257,6 +259,7 @@
 | [0840-magic-squares-in-grid](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0876-hand-of-straights](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0876-hand-of-straights) |
+| [0877-stone-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -869,6 +872,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
@@ -988,4 +992,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0164-maximum-gap) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
