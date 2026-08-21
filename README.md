@@ -346,6 +346,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -402,6 +403,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3797-design-spreadsheet](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/3797-design-spreadsheet) |
