@@ -49,6 +49,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -445,6 +446,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/NikhilSharma-30/Leetcode-Solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
